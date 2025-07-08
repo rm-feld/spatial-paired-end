@@ -1,0 +1,11 @@
+
+Processing founder...
+
+Processing cell1...
+
+cell1 allele 0: Starting with 46970 blocks
+cell1 allele 0: 1 new mutations, final length: 49400
+  Mutation 1: start_idx=41135, length_blocks=810, copies=4
+
+cell1 allele 1: Starting with 46970 blocks
+cell1 allele 1: 0 new mutations, final length: 46970

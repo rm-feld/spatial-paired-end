@@ -1,0 +1,20 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore large data or output folders
+spatial_24/
+results/
+output/
+
+# VSCode settings
+.vscode/
+
+*.bam
+*.fa
+*.fai
+
+cell*
